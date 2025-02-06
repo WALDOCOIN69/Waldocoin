@@ -1,0 +1,2 @@
+# Waldocoin
+WALDOcoin White Paper
